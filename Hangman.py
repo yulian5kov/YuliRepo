@@ -18,7 +18,7 @@ while(fail != 6 or hidden_word != chosen_word):
 		if hidden_list[z] == chosen_list[z]:
 			count = count + 1
 			if count == word_len:
-				print("success")
+				print("SUCCESSS")
 				exit()
 
 			
